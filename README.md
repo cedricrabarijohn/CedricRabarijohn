@@ -1,10 +1,11 @@
 <!-- [![@cedric's Holopin board](https://holopin.io/api/user/board?user=cedricrabarijohn)](https://holopin.io/@cedricrabarijohn) -->
 <p align="center">
 <!-- <img src="https://media1.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=790b7611d1dc94eaeba923144463a8abf484b360f0462308&rid=giphy.gif" /> -->
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" />
+<img src="https://media.giphy.com/media/l2Sq72gPlwox4o2n6/giphy.gif?cid=790b7611d1dc94eaeba923144463a8abf484b360f0462308&rid=giphy.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Cedric Rabarijohn</h1>
 <h3 align="center">A passionate cat web developer from Madagascar</h3>
+<br/>
 
 - 🌱 I’m currently learning **Docker**, **TDD (Test Driver Development)**, **BDD (Behaviour Driven Development)**, **Django** and **Django CMS**.
 - 💬 Ask me about **React**, **Node**, **RestApi**, **Postgresql**
