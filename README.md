@@ -6,7 +6,7 @@
 <h3 align="center">A passionate cat web developer from Madagascar</h3>
 
 - 🌱 I’m currently learning **Docker**, **TDD (Test Driver Development)**, **BDD (Behaviour Driven Development)**, **Django** and **Django CMS**.
-- 💬 Ask me about **React** and **Node**
+- 💬 Ask me about **React**, **Node**, **RestApi**, **Postgresql**
 - 🤔 I’m looking for help with **cats** :(
 
 📫 Anyway, you can reach me on **cedricrabarijohn@gmail.com**
