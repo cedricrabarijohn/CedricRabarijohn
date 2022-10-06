@@ -9,7 +9,7 @@
 - 💬 Ask me about **React**, **Node**, **RestApi**, **Postgresql**
 - 🤔 I’m looking for help with **cats** :(
 
-📫 Anyway, you can reach me on **cedricrabarijohn@gmail.com**
+📫 Anyway, you can reach me by sending a mail to **cedricrabarijohn@gmail.com**.
 
 ⚡ Discord : **Cod#0550**
 
