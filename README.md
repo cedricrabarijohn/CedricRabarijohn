@@ -8,7 +8,7 @@
 <br/>
 
 - 🌱 I’m currently learning **Docker**, **TDD (Test Driver Development)**, **BDD (Behaviour Driven Development)**, **Django** and **Django CMS**.
-- 💬 Ask me about **React**, **Node**, **RestApi**, **Postgresql**
+- 💬 Ask me about **cats**
 - 🤔 I’m looking for help with **cats** :(
 
 📫 Anyway, you can reach me by sending a mail to **cedricrabarijohn@gmail.com**.
