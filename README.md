@@ -19,11 +19,11 @@
 
 📫 Anyway, you can reach me by sending an email to [cedricrabarijohn@gmail.com](mailto:cedricrabarijohn@gmail.com)
 
+⚡ My portfolito : [portfolio-cedric-rab.vercel.app](https://portfolio-cedric-rab.vercel.app/)
+
 ⚡ My discord id : **Cod#0550**
 
 ⚡ My facebook profile : **Rabarijohn Tiana Cedric** ( [Link to my profile](https://www.facebook.com/cedric.rab.1) )
-
-⚡ My portfolito : [portfolio-cedric-rab.vercel.app](https://portfolio-cedric-rab.vercel.app/)
 
 <!--
 **CedricRabarijohn/CedricRabarijohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
