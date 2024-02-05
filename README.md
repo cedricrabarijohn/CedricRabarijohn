@@ -13,29 +13,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CedricRabarijohn&theme=radical&hide_border=true" alt="Github streak"/>
 <p>
 
-- 🌱 I’m currently learning **Web3** and **Blockchain** by joining the **first cohort** of **Road2Web3** from [metaschool](https://metaschool.so/)
-- 💬 Ask me about **React, Next, Typescript, Node**
+- 🌱 I’m currently learning **Convex** and **Koa js**
+- 💬 Ask me about **Typescript, Javascrip, React, Next, Node**
 - 🤔 I’m looking for help with **cats** :(
 
 📫 Anyway, you can reach me by sending an email to [cedricrabarijohn@gmail.com](mailto:cedricrabarijohn@gmail.com)
 
 ⚡ My portfolito : [portfolio-cedric-rab.vercel.app](https://portfolio-cedric-rab.vercel.app/)
 
-⚡ My discord id : **Cod#0550**
+⚡ My discord id : **coooood**
 
 ⚡ My facebook profile : **Rabarijohn Tiana Cedric** ( [Link to my profile](https://www.facebook.com/cedric.rab.1) )
-
-<!--
-**CedricRabarijohn/CedricRabarijohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
