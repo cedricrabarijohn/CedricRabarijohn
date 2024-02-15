@@ -15,11 +15,10 @@
 
 - 🌱 I’m currently learning **Convex** and **Koa js**
 - 💬 Ask me about **Typescript, Javascrip, React, Next, Node**
-- 🤔 I’m looking for help with **cats** :(
 
 📫 Anyway, you can reach me by sending an email to [cedricrabarijohn@gmail.com](mailto:cedricrabarijohn@gmail.com)
 
-⚡ My portfolito : [portfolio-cedric-rab.vercel.app](https://portfolio-cedric-rab.vercel.app/)
+⚡ My portfolio : [portfolio-cedric-rab.vercel.app](https://portfolio-cedric-rab.vercel.app/)
 
 ⚡ My discord id : **coooood**
 
