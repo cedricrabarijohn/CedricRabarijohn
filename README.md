@@ -14,7 +14,7 @@
 <p>
 
 - 🌱 I’m currently learning **Convex** and **Koa js**
-- 💬 Ask me about **Typescript, Javascrip, React, Next, Node**
+- 💬 Ask me about **Typescript, Javascript, React, Next, Node**
 
 📫 Anyway, you can reach me by sending an email to [cedricrabarijohn@gmail.com](mailto:cedricrabarijohn@gmail.com)
 
