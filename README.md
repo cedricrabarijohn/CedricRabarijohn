@@ -23,9 +23,6 @@
   **If you want to know a little bit more about me**
 
   -> Here's the link to my portfolio : **[portfolio-cedric-rab.vercel.app](https://portfolio-cedric-rab.vercel.app/)**
-  <br />
-  <br />
-  <br />
 </div>
 <!--- trophy (start) -->
 <br />
