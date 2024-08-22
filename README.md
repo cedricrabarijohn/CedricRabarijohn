@@ -29,11 +29,10 @@
 </div>
 <!--- trophy (start) -->
 <br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <h2>Trophies</h2></h2>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=CedricRabarijohn&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
@@ -45,12 +44,12 @@
 </p>        
 <!--- stats (end) -->
 <!--h1 without bottom border-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div id="user-content-toc">
   <div align="center">
     <h2>Tech stack and tools</h2>
   </div>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--tech stack icons-->
 <p align="center">
@@ -76,10 +75,10 @@
 
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <h2>Overview</h2>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <!--- stats (start) -->
@@ -103,12 +102,12 @@
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div id="user-content-toc">
   <div align="center">
     <h2>Connect With Me 🤝</h2>
   </div>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!--icons and links-->
