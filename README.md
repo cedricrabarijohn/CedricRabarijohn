@@ -2,24 +2,106 @@
 <p align="center">
 <img src="https://media1.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=790b7611d1dc94eaeba923144463a8abf484b360f0462308&rid=giphy.gif" />
 <!-- <img src="https://media.giphy.com/media/l2Sq72gPlwox4o2n6/giphy.gif?cid=790b7611d1dc94eaeba923144463a8abf484b360f0462308&rid=giphy.gif" /> -->
-<h1 align="center">Hi 👋, I'm Cedric Rabarijohn</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Cedric Rabarijohn</h1>
 
 <h2 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+fullstack+web+developer+and+a+linux+lover" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=A+fullstack+web+developer+and+a+linux+lover" alt="Typing SVG" /></a>
 </h2>
 
 <br/>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CedricRabarijohn&theme=radical&hide_border=true" alt="Github streak"/>
 <p>
+👋 Hi, my name is Cedric Rabarijohn. I'm a web developer based in Madagascar. I'm currently working as a frontend developer for a company in my local country. Everyday, I always learn new things, including things outside the coding world.
 
-- 🌱 I’m currently learning **Convex** and **Koa js**
-- 💬 Ask me about **Typescript, Javascript, React, Next, Node**
+**If you want to know a little bit more about me**
 
-📫 Anyway, you can reach me by sending an email to [cedricrabarijohn@gmail.com](mailto:cedricrabarijohn@gmail.com)
+-> Here's the link to my portfolio : **[portfolio-cedric-rab.vercel.app](https://portfolio-cedric-rab.vercel.app/)**
 
-⚡ My portfolio : [portfolio-cedric-rab.vercel.app](https://portfolio-cedric-rab.vercel.app/)
+<!--- trophy (start) -->
+<ul align="center">
+  <summary><h2 style="display: inline-block"><img style="transform: translate(-40px,-10px); position: absolute;" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDluNGViM2VmNXhoeDFwd2gxOGEzemV2dGJtMXpiMzIwdDg1YW5yYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2FckSxck7LGRA8igep/giphy.webp " width = 32px> Trophies <img style="transform: translate(8px,-10px); position: absolute;" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDluNGViM2VmNXhoeDFwd2gxOGEzemV2dGJtMXpiMzIwdDg1YW5yYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2FckSxck7LGRA8igep/giphy.webp " width = 32px></h2></h2></summary>
+</ul>
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=CedricRabarijohn&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 
-⚡ My discord id : **coooood**
 
-⚡ My facebook profile : **Rabarijohn Tiana Cedric** ( [Link to my profile](https://www.facebook.com/cedric.rab.1) )
+</p>        
+<!--- stats (end) -->
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tech stack and tools <img style="transform: translate(6px,8px)" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a align="center" href="https://skillicons.dev" style="color: white;">
+    <!-- Version Control -->
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" alt="Version Control Icons" />
+    <br />
+    <!-- Programming Languages -->
+    <img src="https://skillicons.dev/icons?i=c,ts,js,py" alt="Programming Languages Icons" />
+    <br />
+    <!-- Web Development -->
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,express,tailwind,materialui,nodejs" alt="Web Development Icons" />
+    <br />
+    <!-- Databases -->
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" alt="Database Icons" />
+    <br />
+    <!-- DevOps / Infrastructure -->
+    <img src="https://skillicons.dev/icons?i=docker,nginx" alt="DevOps/Infrastructure Icons" />
+    <br />
+    <!-- Tools & Utilities -->
+    <img src="https://skillicons.dev/icons?i=discord,figma,postman,vim,linux,md" alt="Tools & Utilities Icons" />
+</a>
+
+</p>
+
+<ul align="center">
+  <summary><h2 style="display: inline-block">Overview</h2></summary>
+</ul>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=CedricRabarijohn&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CedricRabarijohn&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CedricRabarijohn&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/cedric-rabarijohn-76b379235/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+</p>
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=CedricRabarijohn&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
