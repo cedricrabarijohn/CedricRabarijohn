@@ -1,8 +1,13 @@
 <!-- [![@cedric's Holopin board](https://holopin.io/api/user/board?user=cedricrabarijohn)](https://holopin.io/@cedricrabarijohn) -->
 <p align="center">
-<img src="https://media1.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=790b7611d1dc94eaeba923144463a8abf484b360f0462308&rid=giphy.gif" />
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="50%" height="50%" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<!-- <img src="https://media1.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=790b7611d1dc94eaeba923144463a8abf484b360f0462308&rid=giphy.gif" /> -->
 <!-- <img src="https://media.giphy.com/media/l2Sq72gPlwox4o2n6/giphy.gif?cid=790b7611d1dc94eaeba923144463a8abf484b360f0462308&rid=giphy.gif" /> -->
+
+
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Cedric Rabarijohn</h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=A+fullstack+web+developer+and+a+linux+lover" alt="Typing SVG" /></a>
@@ -10,7 +15,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CedricRabarijohn&theme=radical&hide_border=true" alt="Github streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CedricRabarijohn&theme=radical&hide_border=false" alt="Github streak"/>
 <p>
 👋 Hi, my name is Cedric Rabarijohn. I'm a web developer based in Madagascar. I'm currently working as a frontend developer for a company in my local country. Everyday, I always learn new things, including things outside the coding world.
 
@@ -19,9 +24,13 @@
 -> Here's the link to my portfolio : **[portfolio-cedric-rab.vercel.app](https://portfolio-cedric-rab.vercel.app/)**
 
 <!--- trophy (start) -->
-<ul align="center">
+<div align="center">
   <summary><h2 style="display: inline-block">Trophies</h2></h2></summary>
-</ul>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br />
+<br />
+<br />
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=CedricRabarijohn&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
@@ -34,10 +43,14 @@
 <!--- stats (end) -->
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <div align="center">
     <summary><h2 style="display: inline-block">Tech stack and tools</h2></summary>
-  </ul>
+  </div>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br />
+<br />
+<br />
 <!--tech stack icons-->
 <p align="center">
   <a align="center" href="https://skillicons.dev" style="color: white;">
@@ -62,10 +75,13 @@
 
 </p>
 
-<ul align="center">
+<div align="center">
   <summary><h2 style="display: inline-block">Overview</h2></summary>
-</ul>
-<!--- stats & Trophy (start) -->
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br />
+<br />
+<br />
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -89,10 +105,14 @@
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <div align="center">
     <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
+  </div>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br />
+<br />
+<br />
 
 <!--icons and links-->
 <p align="center">
