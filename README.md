@@ -1,33 +1,32 @@
 <!-- [![@cedric's Holopin board](https://holopin.io/api/user/board?user=cedricrabarijohn)](https://holopin.io/@cedricrabarijohn) -->
 
+<!-- <img src="https://media1.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=790b7611d1dc94eaeba923144463a8abf484b360f0462308&rid=giphy.gif" /> -->
+<!-- <img src="https://media.giphy.com/media/l2Sq72gPlwox4o2n6/giphy.gif?cid=790b7611d1dc94eaeba923144463a8abf484b360f0462308&rid=giphy.gif" /> -->
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Cedric Rabarijohn</h1>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=A+fullstack+web+developer+and+a+linux+lover" alt="Typing SVG" /></a>
 </h2>
 
 <br/>
-
 <p align="center">
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="50%" height="50%" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-</p>
-<!-- <img src="https://media1.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=790b7611d1dc94eaeba923144463a8abf484b360f0462308&rid=giphy.gif" /> -->
-<!-- <img src="https://media.giphy.com/media/l2Sq72gPlwox4o2n6/giphy.gif?cid=790b7611d1dc94eaeba923144463a8abf484b360f0462308&rid=giphy.gif" /> -->
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CedricRabarijohn&theme=&hide_border=false" alt="Github streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CedricRabarijohn&theme=&hide_border=true" alt="Github streak"/>
 <p>
-👋 Hi, my name is Cedric Rabarijohn. I'm a web developer based in Madagascar. I'm currently working as a frontend developer for a company in my local country. Everyday, I always learn new things, including things outside the coding world.
 
-**If you want to know a little bit more about me**
+<div>
+  <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  👋 Hi, my name is Cedric Rabarijohn. I'm a web developer based in Madagascar. I'm currently working as a frontend developer for a company in my local country. Everyday, I always learn new things, including things outside the coding world.
 
--> Here's the link to my portfolio : **[portfolio-cedric-rab.vercel.app](https://portfolio-cedric-rab.vercel.app/)**
+  <br />
+  
+  **If you want to know a little bit more about me**
 
+  -> Here's the link to my portfolio : **[portfolio-cedric-rab.vercel.app](https://portfolio-cedric-rab.vercel.app/)**
+</div>
 <!--- trophy (start) -->
+<br />
 <div align="center">
-  <h2 style="display: inline-block">Trophies</h2></h2>
+  <h2>Trophies</h2></h2>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -44,7 +43,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <div align="center">
-    <h2 style="display: inline-block">Tech stack and tools</h2>
+    <h2>Tech stack and tools</h2>
   </div>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -74,7 +73,7 @@
 </p>
 
 <div align="center">
-  <h2 style="display: inline-block">Overview</h2>
+  <h2>Overview</h2>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -102,7 +101,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <div align="center">
-    <h2 style="display: inline-block">Connect With Me 🤝</h2>
+    <h2>Connect With Me 🤝</h2>
   </div>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
