@@ -20,7 +20,7 @@
 
 <!--- trophy (start) -->
 <ul align="center">
-  <summary><h2 style="display: inline-block"><img style="transform: translate(-40px,-10px); position: absolute;" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDluNGViM2VmNXhoeDFwd2gxOGEzemV2dGJtMXpiMzIwdDg1YW5yYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2FckSxck7LGRA8igep/giphy.webp " width = 32px> Trophies <img style="transform: translate(8px,-10px); position: absolute;" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDluNGViM2VmNXhoeDFwd2gxOGEzemV2dGJtMXpiMzIwdDg1YW5yYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2FckSxck7LGRA8igep/giphy.webp " width = 32px></h2></h2></summary>
+  <summary><h2 style="display: inline-block">Trophies</h2></h2></summary>
 </ul>
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -35,7 +35,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tech stack and tools <img style="transform: translate(6px,8px)" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2></summary>
+    <summary><h2 style="display: inline-block">Tech stack and tools</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
