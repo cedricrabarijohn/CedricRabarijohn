@@ -25,7 +25,7 @@
 
 <!--- trophy (start) -->
 <div align="center">
-  <summary><h2 style="display: inline-block">Trophies</h2></h2></summary>
+  <h2 style="display: inline-block">Trophies</h2></h2>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br />
@@ -44,7 +44,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <div align="center">
-    <summary><h2 style="display: inline-block">Tech stack and tools</h2></summary>
+    <h2 style="display: inline-block">Tech stack and tools</h2>
   </div>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -76,7 +76,7 @@
 </p>
 
 <div align="center">
-  <summary><h2 style="display: inline-block">Overview</h2></summary>
+  <h2 style="display: inline-block">Overview</h2>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br />
@@ -106,7 +106,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <div align="center">
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+    <h2 style="display: inline-block">Connect With Me 🤝</h2>
   </div>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
