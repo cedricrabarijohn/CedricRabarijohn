@@ -13,7 +13,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CedricRabarijohn&theme=&hide_border=true" alt="Github streak"/>
 <p>
 
-<div style="height: 210px;">
+<div>
   <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen style=""></img>
   👋 Hi, my name is Cedric Rabarijohn. I'm a web developer based in Madagascar. I'm currently working as a frontend developer for a company in my local country. Everyday, I always learn new things, including things outside the coding world.
 
@@ -22,6 +22,9 @@
   **If you want to know a little bit more about me**
 
   -> Here's the link to my portfolio : **[portfolio-cedric-rab.vercel.app](https://portfolio-cedric-rab.vercel.app/)**
+  <br />
+  <br />
+  <br />
 </div>
 <!--- trophy (start) -->
 <br />
