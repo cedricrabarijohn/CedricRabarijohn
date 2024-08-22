@@ -5,13 +5,22 @@
 <h1 align="center">Hi 👋, I'm Cedric Rabarijohn</h1>
 
 <h2 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=React+Next+Typescript+Docker+Node" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+fullstack+web+developer+&+a+linux+lover" alt="Typing SVG" /></a>
 </h2>
 
 <br/>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CedricRabarijohn&theme=radical&hide_border=true" alt="Github streak"/>
 <p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CedricRabarijohn/CedricRabarijohn/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CedricRabarijohn/CedricRabarijohn/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CedricRabarijohn/CedricRabarijohn/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<br />
+<br />
 
 - 🌱 I’m currently learning **Convex** and **Koa js**
 - 💬 Ask me about **Typescript, Javascript, React, Next, Node**
