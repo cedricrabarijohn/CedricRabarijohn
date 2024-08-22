@@ -28,7 +28,8 @@
 <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-  <h2>Trophies</h2></h2>
+  <h2>Trophies</h2>
+  <br />
 </div>
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -46,6 +47,7 @@
   <div align="center">
     <h2>Tech stack and tools</h2>
   </div>
+  <br />
 </div>
 
 <!--tech stack icons-->
@@ -75,6 +77,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <h2>Overview</h2>
+  <br />
 </div>
 
 <p align="center">
@@ -103,6 +106,7 @@
 <div id="user-content-toc">
   <div align="center">
     <h2>Connect With Me 🤝</h2>
+    <br />
   </div>
 </div>
 
