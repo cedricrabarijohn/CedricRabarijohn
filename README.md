@@ -19,10 +19,6 @@
   👋 Hi, my name is Cedric Rabarijohn. I'm a web developer based in Madagascar. I'm currently working as a frontend developer for a company in my local country. Everyday, I always learn new things, including things outside the coding world.
 
   <br />
-  
-  **If you want to know a little bit more about me**
-
-  -> Here's the link to my portfolio : **[portfolio-cedric-rab.vercel.app](https://portfolio-cedric-rab.vercel.app/)**
 </div>
 <!--- trophy (start) -->
 <br />
